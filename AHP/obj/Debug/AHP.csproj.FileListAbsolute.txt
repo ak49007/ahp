@@ -1,0 +1,11 @@
+D:\LeNgan\projects\AHP\AHP\AHP\bin\Debug\AHP.exe.config
+D:\LeNgan\projects\AHP\AHP\AHP\bin\Debug\AHP.exe
+D:\LeNgan\projects\AHP\AHP\AHP\bin\Debug\AHP.pdb
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.Form1.resources
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.Form2.resources
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.Properties.Resources.resources
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.csproj.GenerateResource.Cache
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.exe
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.pdb
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.csprojResolveAssemblyReference.cache
+D:\LeNgan\projects\AHP\AHP\AHP\obj\Debug\AHP.Form3.resources
